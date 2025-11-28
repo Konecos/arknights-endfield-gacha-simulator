@@ -2,7 +2,7 @@
 
 该项目提供了一个高度可定制的 Web 模拟器，用于分析《明日方舟：终末地》中特许寻访（抽卡）机制的概率分布和累积概率。用户可以自由修改游戏中的各项概率和保底参数，以进行准确的抽卡成本估算和风险分析。
 
-**项目地址:** https://github.com/Konecos/arknights-endfield-gacha-simulator
+[点击查看](https://konecos.github.io/arknights-endfield-gacha-simulator/)
 
 ## ✨ 主要功能
 
